@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@900&display=swap');
 
 
+body{
+    margin: 0;
+}
 h2{
     border-radius: 10px;
     padding: 0;
@@ -13,7 +16,8 @@ img{
     padding: 0;
 }
 .Pirate{
-    padding-top: 30px;
+    padding: 0%;
+    padding-top: 30px; 
     padding-bottom: 100px;
     margin: auto;
     justify-content: center;
