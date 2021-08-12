@@ -30,7 +30,8 @@ img{
 
 #txt-input{
     border: 1px solid black;
-    width: 400px;
+    max-width: 400px;
+    width: 80%;
     height: 200px;
     padding: 10px;
     font-family: 'Londrina Solid', cursive;
@@ -58,7 +59,8 @@ img{
 
 #output{
     border: 1px solid black;
-    width: 400px;
+    max-width: 400px;
+    width: 80%;
     height: 200px;
     text-align: center;
     justify-content: center;
