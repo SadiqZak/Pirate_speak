@@ -30,7 +30,7 @@ img{
 
 #txt-input{
     border: 1px solid black;
-    max-width: 400px;
+    max-width: 1200px;
     width: 80%;
     height: 200px;
     padding: 10px;
@@ -59,7 +59,7 @@ img{
 
 #output{
     border: 1px solid black;
-    max-width: 400px;
+    max-width: 1200px;
     width: 80%;
     height: 200px;
     text-align: center;
